@@ -27,7 +27,7 @@ All project images live under `public/projects` and are referenced in the `Proje
 # ✨ Development
 
 ```bash
-git clone git@github.com:ibrahimmemonn/Figma_Portfolio.git
+git clone git@github.com:BurhanuddinTinwalan/Figma_Portfolio.git
 
 cd Figma_Portfolio/
 
@@ -44,7 +44,7 @@ Every branch or Pull Request is automatically deployed by [Vercel](https://verce
 
 # 🏛 Licenses
 
-© Copyright 2025 Ibrahim Memon
+© Copyright 2025 Burhanuddin Tinwala
 
 Don't care if you fork & play with it, but you're not allowed to publish anything from it as a whole without my written permission. Also please be aware, the combination of typography, colors & layout makes up my brand identity. So please don't just clone everything, but rather do a remix!
 
