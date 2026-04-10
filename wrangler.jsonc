@@ -1,7 +1,11 @@
 {
     "$schema": "node_modules/wrangler/config-schema.json",
     "name": "portfolio-website",
+    "main": ".vercel/output/static/_worker.js/index.js",
     "compatibility_date": "2026-04-10",
+    "assets": {
+        "directory": ".vercel/output/static"
+    },
     "observability": {
         "enabled": true
     },
