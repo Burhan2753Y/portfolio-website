@@ -4,7 +4,7 @@
 
 A personal portfolio website built to showcase my work as a **Software Engineer**, **UI/UX Designer**, and **React Native Developer**. Built with [Next.js 16](https://nextjs.org/), [React 19](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS v4](https://tailwindcss.com/).
 
-**Live site:** [figma-portfolio-ten.vercel.app](https://figma-portfolio-ten.vercel.app/)
+**Live site:** [figma-portfolio-ten.vercel.app](https://figma-portfolio-ten.vercel.app/) — hosted on [Cloudflare Pages](https://pages.cloudflare.com/)
 
 ---
 
@@ -22,7 +22,7 @@ I'm **Burhanuddin Tinwala** — a Software Engineer at [WebHR](https://web.hr/) 
 - **Featured Projects** — Showcases selected design work with descriptions and links
 - **Work Experience** — Cards highlighting products I've shipped
 - **About Section** — Skills overview with an illustrative layout
-- **Vercel Analytics** — Performance and usage tracking
+- **Cloudflare Pages** — Deployed and hosted on Cloudflare Pages via Wrangler
 - **Statically Generated** — All pages are statically generated via Next.js
 
 ---
@@ -89,15 +89,13 @@ public/
 
 ## Deployment
 
-The site is deployed on **Vercel** — every push to `main` is automatically deployed and aliased to the live URL. Pull request previews are created for every branch.
-
-For **Cloudflare Pages** deployment:
+The site is deployed on **Cloudflare Pages** via [Wrangler](https://developers.cloudflare.com/workers/wrangler/).
 
 ```bash
 npm run build
 ```
 
-This runs `next build` followed by `@cloudflare/next-on-pages` to generate the Cloudflare-compatible output, which can then be deployed via Wrangler.
+This runs `next build` followed by `@cloudflare/next-on-pages` to produce the Cloudflare-compatible output, then deploys it using Wrangler.
 
 ---
 
