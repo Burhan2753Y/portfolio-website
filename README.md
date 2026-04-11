@@ -1,10 +1,10 @@
 # Burhanuddin Tinwala — Portfolio Website
 
-[![Site preview](/public/assets/thumbnail.png)](https://figma-portfolio-ten.vercel.app/)
+[![Site preview](/public/assets/thumbnail.png)](https://burhan53.in)
 
 A personal portfolio website built to showcase my work as a **Software Engineer**, **UI/UX Designer**, and **React Native Developer**. Built with [Next.js 16](https://nextjs.org/), [React 19](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS v4](https://tailwindcss.com/).
 
-**Live site:** [figma-portfolio-ten.vercel.app](https://figma-portfolio-ten.vercel.app/) — hosted on [Cloudflare Pages](https://pages.cloudflare.com/)
+**Live site:** [burhan53.in](https://burhan53.in) — hosted on [Cloudflare Pages](https://pages.cloudflare.com/)
 
 ---
 
