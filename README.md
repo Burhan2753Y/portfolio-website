@@ -109,4 +109,10 @@ You're welcome to fork and experiment, but please don't publish the site as-is o
 
 ---
 
+## Credits
+
+This site is originally created by **Ibrahim Memon**. I forked his work and customized it to reflect my own personal brand, projects, and experience. Full credit goes to him for the original design and implementation.
+
+---
+
 If you found this helpful or interesting, consider leaving a star!
