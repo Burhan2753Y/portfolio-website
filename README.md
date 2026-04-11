@@ -10,7 +10,7 @@ A personal portfolio website built to showcase my work as a **Software Engineer*
 
 ## About
 
-I'm **Burhanuddin Tinwala** — a Software Engineer at [WebHR](https://web.hr/) and a self-taught UI/UX designer with 3+ years of industry experience. I design and build meaningful, delightful digital products that balance user needs with business goals.
+I'm **Burhanuddin Tinwala** — an AI/ML Full Stack Developer at [Wavenet Technologies](https://wavenet.com/) and a self-taught UI/UX designer with 3+ years of industry experience. I design and build meaningful, delightful digital products that balance user needs with business goals.
 
 ---
 
