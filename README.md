@@ -2,7 +2,7 @@
 
 [![Site preview](/public/assets/thumbnail.png)](https://burhan53.in)
 
-A personal portfolio website built to showcase my work as a **Software Engineer**, **UI/UX Designer**, and **React Native Developer**. Built with [Next.js 16](https://nextjs.org/), [React 19](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS v4](https://tailwindcss.com/).
+A personal portfolio website built to showcase my work as a **Software Engineer**, **UI/UX Designer**, and **React Native Developer**. Built with [Next.js 16](https://nextjs.org/), [React 19](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS v4](https://tailwindcss.com/). Original design by [Ibrahim Memon](https://github.com/ibrahimmemonn).
 
 **Live site:** [burhan53.in](https://burhan53.in) — hosted on [Cloudflare Pages](https://pages.cloudflare.com/)
 
@@ -109,7 +109,7 @@ You're welcome to fork and experiment, but please don't publish the site as-is o
 
 ## Credits
 
-This site is originally created by **Ibrahim Memon**. I forked his work and customized it to reflect my own personal brand, projects, and experience. Full credit goes to him for the original design and implementation.
+This site is originally created by [Ibrahim Memon](https://github.com/ibrahimmemonn). I forked his work and customized it to reflect my own personal brand, projects, and experience. Full credit goes to him for the original design and implementation.
 
 ---
 

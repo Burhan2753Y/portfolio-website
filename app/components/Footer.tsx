@@ -74,6 +74,9 @@ export default function Footer(): React.JSX.Element {
           <p className="text-white/60 text-sm">
             © {new Date().getFullYear()} Burhanuddin Tinwala. All rights reserved.
           </p>
+          <p className="text-white/40 text-xs mt-2">
+            Designed by <Link href="https://github.com/ibrahimmemonn" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">Ibrahim Memon</Link>
+          </p>
         </div>
       </div>
     </footer>
