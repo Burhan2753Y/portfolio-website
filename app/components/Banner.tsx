@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useState, useEffect } from "react";
 
 export default function Banner(): React.JSX.Element {
-  const texts = ["Software Engineer", "UI/UX Designer", "React Native Developer"];
+  const texts = ["AI/ML Engineer", "Full Stack AI Developer", "Generative AI Developer", "LLM Engineer", "Agentic AI Builder"];
   const [currentTextIndex, setCurrentTextIndex] = useState(0);
   const [displayedText, setDisplayedText] = useState("");
   const [isDeleting, setIsDeleting] = useState(false);
@@ -75,11 +75,11 @@ export default function Banner(): React.JSX.Element {
                 </div>
               </div>
               <Image
-                src="/assets/me.png"
+                src="/assets/me-new.png"
                 alt="Burhanuddin Tinwala - Software Engineer and Designer"
                 width={300}
                 height={300}
-                className=" max-w-md absolute"
+                className="max-w-md absolute"
                 style={{ width: "auto", height: "auto" }}
                 priority
               />
@@ -114,20 +114,20 @@ export default function Banner(): React.JSX.Element {
               <div className="absolute -bottom-2 left-8 w-0 h-0 border-l-8 border-l-transparent border-r-8 border-r-transparent border-t-8 border-t-white/10"></div>
             </div>
             <div className="">
-              <p className="text-2xl"> A Designer who </p>
+              <p className="text-2xl"> An Engineer who </p>
               <h1 className="text-5xl tracking-tight lg:text-7xl font-semibold text-white leading-tight">
-                Judges a book
-                <br /> by its{" "}
+                Builds AI that
+                <br /> thinks &{" "}
                 <span className="relative inline-block">
                   <Image src="/assets/circle.png" alt="Circle" width={200} height={200} className="absolute mt-2" />
                   <span className="bg-gradient-to-r from-violet-600 via-violet-400 to-violet-600 bg-clip-text text-transparent">
-                    cover
+                    scales
                   </span>
                 </span>
                 ...
               </h1>
               <p className="text-md text-white/80">
-                Because if the cover does not impress you what else can?
+                Because the best systems don&apos;t just work — they get smarter.
               </p>
             </div>
           </div>
@@ -138,16 +138,13 @@ export default function Banner(): React.JSX.Element {
             <span className="animate-pulse">|</span>
           </p>
           <p className="text-lg lg:text-xl text-white/90 tracking-wide flex flex-wrap items-center justify-center lg:justify-start gap-2">
-            <span>Currently, I&apos;m a Software Engineer at</span>
-            <span className="flex items-center gap-2">
-              <Image src="/assets/webhr.webp" alt="WebHR" width={20} height={20} className="w-5 h-5" style={{ width: "auto", height: "auto" }} />
-              <span className="text-blue-400 font-semibold">WebHR,</span>
-            </span>
+            <span>Currently, I&apos;m an AI/ML Engineer at</span>
+            <span className="text-blue-400 font-semibold">Wavenet Technologies,</span>
           </p>
           <p className="text-lg text-white/80 max-w-2xl mt-15 mx-auto lg:mx-0">
-            A self-taught UI/UX designer, functioning in the industry for 3+
-            years now. I make meaningful and delightful digital products that
-            create an equilibrium between user needs and business goals.
+            Results-oriented AI/ML Engineer with hands-on experience in architecting and deploying end-to-end
+            Generative AI and Full Stack solutions. Proficient in Python, LLMs, RAG pipelines, and Agentic AI —
+            building scalable systems on AWS and Azure that drive real-world impact.
           </p>
         </div>
       </div>
