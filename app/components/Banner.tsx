@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useState, useEffect } from "react";
 
 export default function Banner(): React.JSX.Element {
-  const texts = ["AI/ML Engineer", "Full Stack AI Developer", "Generative AI Developer", "LLM Engineer", "Agentic AI Builder"];
+  const texts = ["Full Stack AI ML Developer", "Generative AI Developer", "LLM Engineer", "Agentic AI Builder", "Full Stack AI Developer"];
   const [currentTextIndex, setCurrentTextIndex] = useState(0);
   const [displayedText, setDisplayedText] = useState("");
   const [isDeleting, setIsDeleting] = useState(false);
@@ -138,11 +138,11 @@ export default function Banner(): React.JSX.Element {
             <span className="animate-pulse">|</span>
           </p>
           <p className="text-lg lg:text-xl text-white/90 tracking-wide flex flex-wrap items-center justify-center lg:justify-start gap-2">
-            <span>Currently, I&apos;m an AI/ML Engineer at</span>
+            <span>Currently, I&apos;m a Full Stack AI ML Developer at</span>
             <span className="text-blue-400 font-semibold">Wavenet Technologies,</span>
           </p>
           <p className="text-lg text-white/80 max-w-2xl mt-15 mx-auto lg:mx-0">
-            Results-oriented AI/ML Engineer with hands-on experience in architecting and deploying end-to-end
+            Results-oriented Full Stack AI ML Developer with hands-on experience in architecting and deploying end-to-end
             Generative AI and Full Stack solutions. Proficient in Python, LLMs, RAG pipelines, and Agentic AI —
             building scalable systems on AWS and Azure that drive real-world impact.
           </p>

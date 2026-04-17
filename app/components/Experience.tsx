@@ -12,13 +12,14 @@ interface ExperienceItem {
 const experiences: ExperienceItem[] = [
   {
     id: 1,
-    role: "AI/ML Engineer",
+    role: "Full Stack AI ML Developer",
     company: "Wavenet Technologies Pvt Ltd",
     location: "Mumbai",
     period: "August 2025 – Present",
     type: "Full-time",
     bullets: [
-      "Engineered an automated Enterprise Call AI Agent leveraging ASR and RAG, reducing customer service query resolution time by 40% and automating Tier-1 support tasks.",
+      "Engineered an automated Enterprise Call AI Agent leveraging ASR and RAG to automate Tier-1 support tasks and streamline enterprise call workflows.",
+      "Represented Wavenet Technologies at the Startup Grand Challenge (ASR Problem Statement) hosted at IIT Delhi by NIIPC — achieved Top 15 finish among nationwide startups.",
       "Fine-tuned Large Language Models (LLMs) on domain-specific datasets, boosting response accuracy and contextual relevance by 25% compared to base models.",
       "Trained and fine-tuned image recognition models — including floor plan to 3D visualization and language identification — enabling production-ready computer vision pipelines.",
       "Developed a responsive UI using React.js and React Flow, enabling non-technical users to visualize complex agent conversation flows and reducing configuration time by 30%.",
