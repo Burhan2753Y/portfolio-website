@@ -41,7 +41,7 @@ export default function About(): React.JSX.Element {
         {/* Professional Summary */}
         <div className="bg-gradient-to-r from-slate-950 via-purple-950 to-slate-950 rounded-2xl p-8 border border-purple-700/30 mb-16">
           <p className="text-white/80 text-lg leading-relaxed text-center max-w-4xl mx-auto">
-            Results-oriented <span className="text-purple-400 font-semibold">AI/ML Engineer & Full Stack AI Developer</span> with
+            Results-oriented <span className="text-purple-400 font-semibold">Full Stack AI ML Developer</span> with
             hands-on experience in architecting and deploying end-to-end Generative AI solutions. Proficient in Python, LLMs,
             RAG pipelines, and Agentic AI. Trained and fine-tuned models for image recognition tasks — including floor plan to 3D
             visualization and language identification. Demonstrated success in containerizing applications for scalable cloud
